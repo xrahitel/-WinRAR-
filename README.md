@@ -50,4 +50,4 @@ def get_right_hdr_crc(filename):
 
 have fun! :)
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=jm_lKZRNA1Y)
+[![Watch the video](https://i.postimg.cc/BZ7KDDFP/2019-02-25-031816.png)](https://www.youtube.com/watch?v=jm_lKZRNA1Y)
